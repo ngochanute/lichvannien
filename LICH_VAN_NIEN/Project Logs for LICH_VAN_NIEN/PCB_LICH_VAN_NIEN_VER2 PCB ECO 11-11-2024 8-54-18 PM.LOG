@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=5V Pin=LCD1-2
+Removed Pin From Net: NetName=RS Pin=LCD1-4
+Removed Pin From Net: NetName=RW Pin=LCD1-5
+Removed Pin From Net: NetName=EN Pin=LCD1-6
+Removed Pin From Net: NetName=GND Pin=LCD1-7
+Removed Pin From Net: NetName=GND Pin=LCD1-8
+Removed Pin From Net: NetName=GND Pin=LCD1-9
+Removed Pin From Net: NetName=GND Pin=LCD1-10
+Removed Pin From Net: NetName=5V Pin=LCD1-15
+Removed Pin From Net: NetName=GND Pin=LCD1-16
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator=MCLR NewDesignator=S4
+Added Component: Designator=C?(JP16-D1C)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613016143121"; VariantName = "[No Variations]"
+Added Component: Designator=lcd(JP16-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613016143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=lcd-1
+Added Pin To Net: NetName=5V Pin=lcd-2
+Added Pin To Net: NetName=RS Pin=lcd-4
+Added Pin To Net: NetName=RW Pin=lcd-5
+Added Pin To Net: NetName=EN Pin=lcd-6
+Added Pin To Net: NetName=GND Pin=lcd-7
+Added Pin To Net: NetName=GND Pin=lcd-8
+Added Pin To Net: NetName=GND Pin=lcd-9
+Added Pin To Net: NetName=GND Pin=lcd-10
+Added Pin To Net: NetName=5V Pin=lcd-15
+Added Pin To Net: NetName=GND Pin=lcd-16
+Added Pin To Net: NetName=Netlcd_3 Pin=lcd-3
+Added Pin To Net: NetName=Netlcd_3 Pin=VR1-2
+Added Net: Name=Netlcd_3
+Added Pin To Net: NetName=Netlcd_11 Pin=lcd-11
+Added Pin To Net: NetName=Netlcd_11 Pin=U2-2
+Added Net: Name=Netlcd_11
+Added Pin To Net: NetName=Netlcd_12 Pin=lcd-12
+Added Pin To Net: NetName=Netlcd_12 Pin=U2-3
+Added Net: Name=Netlcd_12
+Added Pin To Net: NetName=Netlcd_13 Pin=lcd-13
+Added Pin To Net: NetName=Netlcd_13 Pin=U2-4
+Added Net: Name=Netlcd_13
+Added Pin To Net: NetName=Netlcd_14 Pin=lcd-14
+Added Pin To Net: NetName=Netlcd_14 Pin=U2-5
+Added Net: Name=Netlcd_14
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component C9 104
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component C? JP16
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component lcd JP16
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component R5 4.7k
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component S4 SW
+Added Room: Name=SCH_LICH_VAN_NIEN

@@ -1,0 +1,38 @@
+Added Component: Designator=lcd20x4(JP16-D1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613016143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=lcd20x4-1
+Added Pin To Net: NetName=5V Pin=lcd20x4-2
+Added Pin To Net: NetName=RS Pin=lcd20x4-4
+Added Pin To Net: NetName=RW Pin=lcd20x4-5
+Added Pin To Net: NetName=EN Pin=lcd20x4-6
+Added Pin To Net: NetName=GND Pin=lcd20x4-7
+Added Pin To Net: NetName=GND Pin=lcd20x4-8
+Added Pin To Net: NetName=GND Pin=lcd20x4-9
+Added Pin To Net: NetName=GND Pin=lcd20x4-10
+Added Pin To Net: NetName=5V Pin=lcd20x4-15
+Added Pin To Net: NetName=GND Pin=lcd20x4-16
+Added Pin To Net: NetName=Netlcd20x4_3 Pin=lcd20x4-3
+Added Pin To Net: NetName=Netlcd20x4_3 Pin=VR1-2
+Added Net: Name=Netlcd20x4_3
+Added Pin To Net: NetName=Netlcd20x4_11 Pin=lcd20x4-11
+Added Pin To Net: NetName=Netlcd20x4_11 Pin=U2-2
+Added Net: Name=Netlcd20x4_11
+Added Pin To Net: NetName=Netlcd20x4_12 Pin=lcd20x4-12
+Added Pin To Net: NetName=Netlcd20x4_12 Pin=U2-3
+Added Net: Name=Netlcd20x4_12
+Added Pin To Net: NetName=Netlcd20x4_13 Pin=lcd20x4-13
+Added Pin To Net: NetName=Netlcd20x4_13 Pin=U2-4
+Added Net: Name=Netlcd20x4_13
+Added Pin To Net: NetName=Netlcd20x4_14 Pin=lcd20x4-14
+Added Pin To Net: NetName=Netlcd20x4_14 Pin=U2-5
+Added Net: Name=Netlcd20x4_14
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component lcd20x4 JP16
+Added Room: Name=SCH_LICH_VAN_NIEN

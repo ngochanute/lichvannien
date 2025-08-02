@@ -1,0 +1,13 @@
+Added Component: Designator=H1(Header 6P DC 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 6P XH2.54-6P Ð?c Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCLR Pin=H1-1
+Added Pin To Net: NetName=VCC Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-3
+Added Pin To Net: NetName=DAT Pin=H1-4
+Added Pin To Net: NetName=CLK Pin=H1-5
+Added Member To Class: ClassName=SCH_LICH_VAN_NIEN Member=Component H1 Header 6P 2.54 Duc Cong

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[PCB_LICH_VAN_NIEN-RoundHoles.TXT]
+   Generated File[PCB_LICH_VAN_NIEN-SlotHoles.TXT]
+   Generated File[PCB_LICH_VAN_NIEN.LDP]
+   Generated File[PCB_LICH_VAN_NIEN.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:50:18 PM On 11/7/2024

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\THUCTAP_VXL\LAM_MACH_LICH_VAN_NIEN_DS18D20\LICH_VAN_NIEN_LCD\LICH_VAN_NIEN\PCB_LICH_VAN_NIEN_VER2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_lich_van_nien_ver2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_lich_van_nien_ver2-slotholes.txt|DrillLayers=gtl,gbl

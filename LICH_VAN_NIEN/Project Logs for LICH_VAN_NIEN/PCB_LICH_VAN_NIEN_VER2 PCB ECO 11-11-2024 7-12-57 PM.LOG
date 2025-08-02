@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C10 Old Footprint=JP3-C1C New Footprint=JP3-C1T
+Change Component Designator: OldDesignator=H? NewDesignator=PICKIT2
+Added Room: Name=SCH_LICH_VAN_NIEN

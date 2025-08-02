@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\THUCTAP_VXL\LAM_MACH_LICH_VAN_NIEN_DS18D20\LICH_VAN_NIEN_LCD\LICH_VAN_NIEN\PCB_LICH_VAN_NIEN.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
